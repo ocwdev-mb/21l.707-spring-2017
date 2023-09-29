@@ -1,0 +1,21 @@
+leftnav:
+- identifier: b05d5eac-54d6-98b7-5972-e2a62b46c11d
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: fdf23475-f524-e2d8-a8ec-f8c53a165963
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: fcbcba75-c822-0c75-4a81-bb95a95fb94e
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 36d1e29c-04df-a0a3-2ca0-2cdacd1bf44b
+  name: Essays
+  pageRef: /pages/essays
+  weight: 40
+- identifier: f5a29c58-6ce5-88d4-d926-0aa9c89ded56
+  name: Oral Presentations
+  pageRef: /pages/oral-presentations
+  weight: 50
